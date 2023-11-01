@@ -4,9 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-● You cannot run the bot using the .py code from this repository. This requires the full version of the software. ❗
+● You cannot run the software using the .py code from this repository. This requires the full version of the software. ❗
 
-● DM me from Telegram (https://t.me/angellutz1) if you want to buy full version of the software. 📭
+● DM me from Telegram (https://t.me/angellutz1) if you want to buy the full software version. 📭
 
 ● Prices are negotiable. 👍
 
@@ -14,7 +14,7 @@
 
 ✅ Works for all wallets!
 
-✅ BSC, ETH, BTC and MORE BLOCKCHAINS!
+✅ BSC, ETH, BTC, and MORE BLOCKCHAINS!
 
 ✅ Works with the speed of light!
 
